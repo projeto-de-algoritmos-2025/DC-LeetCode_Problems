@@ -1,6 +1,4 @@
-# DC-LeetCode_Problems
-
-# Greedy Algorithms
+# Dividir e Conquistar 
 
 **Autor:** João Marcos e Wanjo Christopher  
 
@@ -24,26 +22,26 @@ na plataforma [LeetCode](https://leetcode.com).
 
 | Exercício                                                                                                                                           | Aluno                                   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-|**Difícil**    [Minimum Number of Refueling Stops 🚛⛽](https://leetcode.com/problems/minimum-number-of-refueling-stops/)                                            | [João Marcos](https://github.com/JJOAOMARCOSS)    |
-|**Difícil**    [Course Schedule III 📝](https://leetcode.com/problems/course-schedule-iii/description/?envType=problem-list-v2&envId=greedy)                                            | [Christopher Escobar](https://github.com/wChrstphr)    |                                            
-|**Difícil**    [Minimum Money Required Before Transactions 💸](https://leetcode.com/problems/minimum-money-required-before-transactions/description/?envType=problem-list-v2&envId=greedy)                                            | [Christopher Escobar](https://github.com/wChrstphr)    |
-| **Médio**   [Last Stone Weight II ⚖️](https://leetcode.com/problems/last-stone-weight-ii/)                                                                         | [João Marcos](https://github.com/JJOAOMARCOSS)    |
+|**Difícil**    [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)  | [João Marcos](https://github.com/JJOAOMARCOSS)    |
+|**Difícil**    [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | [João Marcos](https://github.com/JJOAOMARCOSS)    |                                            
+| **Médio**   [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                               | [João Marcos](https://github.com/JJOAOMARCOSS)    |
+|**Difícil**    []()                                            | [Christopher Escobar](https://github.com/wChrstphr)    |
 
 ## Screenshots
-### [871. Minimum Number of Refueling Stops 🚛⛽](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
-![871](/assets/871.png)
-![Resposta](/assets/871-res.png)
+### [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
+![493](/assets/493.png)
+![Resposta](/assets/493-res.png)
 
-### [1049. Last Stone Weight II ⚖️](https://leetcode.com/problems/last-stone-weight-ii/)
-![1049](/assets/1049.png)
-![1049](/assets/1049-res.png)
+### [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+![315](/assets/315.png)
+![315](/assets/315-res.png)
 
-### [630. Course Schedule III 📝](https://leetcode.com/problems/course-schedule-iii/description/?envType=problem-list-v2&envId=greedy)
-![639](/assets/630.png)
-![630](/assets/630-res.png)
+### [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+![215](/assets/215.png)
+![215](/assets/215-res.png)
 
 
-### [2412. Minimum Money Required Before Transactions 💸](https://leetcode.com/problems/minimum-money-required-before-transactions/description/?envType=problem-list-v2&envId=greedy)
+### []()
 ![2412](/assets/2412.png)
 ![2412](/assets/2412-res.png)
 
@@ -51,7 +49,7 @@ na plataforma [LeetCode](https://leetcode.com).
 ## Vídeo
 
 Para acessar a explicação dos exercícios, basta acessar o seguinte link disponível no YouTube:  
-[VIDEO](https://youtu.be/WCDN3fwh97c)
+[VIDEO](https://youtu.be/Colocar-o-video)
 
 
 ## Linguagens
