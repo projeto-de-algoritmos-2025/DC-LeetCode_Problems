@@ -25,7 +25,7 @@ na plataforma [LeetCode](https://leetcode.com).
 |**Difícil**    [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)  | [João Marcos](https://github.com/JJOAOMARCOSS)    |
 |**Difícil**    [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | [João Marcos](https://github.com/JJOAOMARCOSS)    |                                            
 | **Médio**   [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                               | [João Marcos](https://github.com/JJOAOMARCOSS)    |
-|**Difícil**    []()                                            | [Christopher Escobar](https://github.com/wChrstphr)    |
+|**Difícil**    [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                            | [Christopher Escobar](https://github.com/wChrstphr)    |
 
 ## Screenshots
 ### [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
@@ -41,9 +41,9 @@ na plataforma [LeetCode](https://leetcode.com).
 ![215](/assets/215-res.png)
 
 
-### []()
-![2412](/assets/2412.png)
-![2412](/assets/2412-res.png)
+### [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+![4](/assets/4.png)
+![4](/assets/4-res.png)
 
 
 ## Vídeo
