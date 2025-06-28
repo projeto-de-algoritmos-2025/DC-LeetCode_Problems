@@ -49,7 +49,7 @@ na plataforma [LeetCode](https://leetcode.com).
 ## Vídeo
 
 Para acessar a explicação dos exercícios, basta acessar o seguinte link disponível no YouTube:  
-[VIDEO](https://youtu.be/Colocar-o-video)
+[VIDEO](https://youtu.be/PjJRQ1_RHsU)
 
 
 ## Linguagens
